@@ -1,0 +1,93 @@
+nav {
+    width: 100vw;
+    height: 50px;
+    background-color: palevioletred;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+body {
+    margin: 0;
+    background-color: aquamarine;
+}
+
+h1 {
+    margin: 0;
+    font-family: 'Indie Flower', cursive;
+    color: orange;
+    text-align: center;
+    font-size: 50px;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+    color: blue;
+}
+
+#setor1 {
+    margin: 0;
+    padding: 20px;
+    background-color: blueviolet;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#img1 {
+    border-radius: 80%;
+    border: 5px solid fuchsia;
+    width: 300px;
+    height: 300px;
+}
+
+#setor2 {
+    margin: 0;
+    padding: 20px;
+    background-color: rgb(117, 146, 173);
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#img2 {
+    border-radius: 80%;
+    border: 5px solid gray;
+    width: 300px;
+    height: 300px;
+}
+
+#setor3 {
+    margin: 0;
+    padding: 20px;
+    background-color: rgb(89, 89, 252);
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#img3 {
+    border-radius: 80%;
+    border: 5px solid rgb(11, 11, 247);
+    width: 200px;
+    height: 200px;
+}
+
+#textosSetor3 {
+    margin: 0;
+    padding: 20px;
+    background-color: rgb(89, 89, 252);
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
