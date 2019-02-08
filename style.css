@@ -106,18 +106,20 @@ p {
     margin: 0;
     padding: 20px;
     background-color: rgb(233, 233, 110);
+}
+
+#formIndex{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
 }
 
 button {
-    width: 50%;
+    width: 80px;
     height: 40px;
     border-radius: 20px;
-    margin-left: 17%;
-    margin-top: 5%;
+    margin-top: 20pt;
 }
 
 #btn1:hover {
